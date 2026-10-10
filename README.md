@@ -8,7 +8,7 @@
 
 - **Windows 10/11，64 位：**在本仓库右侧 **Releases** 中下载 `qPCR_Studio_Windows_x64.exe`，双击运行。它自带运行环境，无需安装 Python 或 Node.js。
 - **HTML：**下载 [app/index.html](app/index.html) 到本机，然后用现代浏览器打开。若从 GitHub 文件页下载，请选择 **Download raw file**；也可下载整个仓库 ZIP 后解压打开。
-- 若仓库尚无 Release，可以先使用 HTML，或按下方说明构建 EXE。
+-EXE版本已上传至release，无需联网和python环境，即开即用。
 
 使用顺序：**导入表格 → 检查列映射及分组 → 选择内参和重复类型 → 开始分析 → 导出结果**。
 
